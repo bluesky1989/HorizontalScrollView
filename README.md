@@ -1,0 +1,2 @@
+# HorizontalScrollView
+继承ViewGroup自定义HorizontalScrollView实现横向滑动效果，仿ViewPager的实现
